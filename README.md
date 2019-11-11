@@ -1,8 +1,8 @@
 # GuGo
 
-GuGo (**G**ame-based j**u**mp labelin**g** m**o**del) is a jump labeling approach which develops a correspondence between sequential text classification and board-game playing.
+This the the repository for the AAAI 2020 paper "***Solving Sequential Text Classification as Board-Game Playing***".
 
-You can refer to the AAAI 2020 paper “***Solving Sequential Text Classification as Board-Game Playing***” for more details.
+GuGo (**G**ame-based j**u**mp labelin**g** m**o**del) is a jump labeling approach that generalizes the traditional successive labeling by developing a correspondence between sequential text classification and board-game playing.
 
 ## Overview
 
@@ -15,6 +15,7 @@ You can refer to the AAAI 2020 paper “***Solving Sequential Text Classificatio
 
 * Python (≥3.0)
 * PyTorch (≥1.0)
+* [BERT-Base](https://github.com/google-research/bert)
 
 ### Citation
 
