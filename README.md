@@ -11,6 +11,8 @@ GuGo (**G**ame-based j**u**mp labelin**g** m**o**del) is a jump labeling approac
 - data/ 
   contains some datasets used for evaluating.
 
+  (We will release them soon.)
+
 ### Reqirements:
 
 * Python (≥3.0)
