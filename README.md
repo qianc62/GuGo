@@ -20,7 +20,7 @@ GuGo (**G**ame-based j**u**mp labelin**g** m**o**del) is a jump labeling approac
 
 ### Citation
 
-When referencing, please cite this paper as:
+If you find this project helps, please kindly consider citing this paper as:
 
 ```
 @inproceedings{GuGo,
