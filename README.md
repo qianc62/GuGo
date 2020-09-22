@@ -24,9 +24,10 @@ If you find this project helps, please kindly consider citing this paper as:
 
 ```
 @inproceedings{GuGo,
-  title={Solving Sequential Text Classification as Board-Game Playing},
-  author={Chen Qian and Fuli Feng and Lijie Wen and Zhenpeng Chen and Li Lin and Yanan Zheng and Tat-Seng Chua},
-  booktitle={Proceedings of The 34th AAAI Conference on Artificial Intelligence (AAAI)},
-  year={2020}
+  title = {Solving Sequential Text Classification as Board-Game Playing},
+  author = {Chen Qian and Fuli Feng and Lijie Wen and Zhenpeng Chen and Li Lin and Yanan Zheng and Tat-Seng Chua},
+  booktitle = {Proceedings of The 34th AAAI Conference on Artificial Intelligence (AAAI)},
+  year = {2020}
+  pages = {8640-8648}
 }
 ```
